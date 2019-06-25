@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Submission</string>
+    <string name="title">Title</string>
+    <string name="ranking">Ranking</string>
+    <string name="name">Nama</string>
+    <string name="agency">Agency</string>
+    <string name="age">Age</string>
+    <string name="bloodtype">Blood Type</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="durationoftrainee">Duration of Trainee</string>
+    <string name="hobby">Hobby</string>
+    <string name="speciality">Speciality</string>
+    <string name="word">Word</string>
+    <string name="photo">Image Trainee</string>
+
+</resources>
